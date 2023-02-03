@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Caden-Cole-Portfolio/static/css/main.3316daec.css",
+    "main.js": "/Caden-Cole-Portfolio/static/js/main.f05e5af2.js",
+    "static/media/CadenColeResume.pdf": "/Caden-Cole-Portfolio/static/media/CadenColeResume.f8aeeff1b5e55d8a8131.pdf",
+    "index.html": "/Caden-Cole-Portfolio/index.html",
+    "main.3316daec.css.map": "/Caden-Cole-Portfolio/static/css/main.3316daec.css.map",
+    "main.f05e5af2.js.map": "/Caden-Cole-Portfolio/static/js/main.f05e5af2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3316daec.css",
+    "static/js/main.f05e5af2.js"
+  ]
+}
